@@ -1,0 +1,41 @@
+{
+    "name": "United Utilities",
+	"children": [{
+	
+    "name": "CEO Office", "children": [{ 
+			"name": "CEO Admin", 
+				"children": [{ "name": "CEO Admin", "children": [{ "name": "CEO Admin", "children": [{ "name": "CEO Admin", "children": [{ "name": "CEO Admin", }] }] }] }]
+		}, {
+			"name": "CEO Office", 
+				"children": [{ "name": "CEO Office", "children": [{ "name": "CEO Office", "children": [{ "name": "CEO Office", "children": [{ "name": "CEO Office", }] }] }] }] 
+		}, {
+			"name": "Corporate Affairs", 
+				"children": [{ "name": "Corporate & Customer Communications", "children": [{ "name": "Corporate & Customer Communications", "children": [{ "name": "Corporate & Customer Communications", "children": [{ "name": "Corporate & Customer Communications", }] }] }] }]
+				"children": [{ "name": "Corporate Affairs", "children": [{ "name": "Corporate Affairs", "children": [{ "name": "Corporate Affairs", "children": [{ "name": "Corporate Affairs", }] }] }] }]
+				"children": [{ "name": "Media Relations", "children": [{ "name": "Media Relations", "children": [{ "name": "Media Relations", "children": [{ "name": "Media Relations", }] }] }] }]
+				"children": [{ "name": "Sustainability", "children": [{ "name": "Sustainability", "children": [{ "name": "Sustainability", "children": [{ "name": "Sustainability", }] }] }] }]
+		}, {
+			"name": "General Counsel",	
+				"name": "Company Secretariat", 
+					"children": [{ "name": "Company Secretariat", "children": [{ "name": "Company Secretariat", "children": [{ "name": "Company Secretariat", }] }] }]
+				"name": "General Counsel", 
+					"children": [{ "name": "General Counsel", "children": [{ "name": "General Counsel", "children": [{ "name": "General Counsel", }] }] }]
+				"name": "Legal Services",
+					"name": "Claims & Debt",  
+						"children": [{ "name": "Claims & Debt", "children": [{ "name": "Claims & Debt", }] }]
+						"children": [{ "name": "Claims & Litigation", "children": [{ "name": "Claims & Litigation", }] }]
+						"children": [{ "name": "Debt Recovery", "children": [{ "name": "Debt Recovery", }] }]
+					"name": "Commercial & Construction Legal",  
+						"children": [{ "name": "Commercial & Construction Legal", "children": [{ "name": "Commercial & Construction Legal", }] }]
+					"name": "Commercial & Regulatory",  	
+						"children": [{ "name": "Commercial & Regulatory", "children": [{ "name": "Commercial & Regulatory", }] }]
+					"name": "Legal Analysts",  	
+						"children": [{ "name": "Legal Analysts", "children": [{ "name": "Legal Analysts", }] }]
+					"name": "Legal Services",  	
+						"children": [{ "name": "Legal Services", "children": [{ "name": "Legal Services", }] }]						
+					"name": "Property",  	
+						"children": [{ "name": "Property", "children": [{ "name": "Property", }] }]						
+						
+		}]	
+	}]
+}
